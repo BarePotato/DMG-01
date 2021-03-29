@@ -158,8 +158,8 @@ What are the other types of instructions that act on register data?
 * **SRL** (shift right logical) - bit shift a specific register right by 1
 * **RR** (rotate right) - bit rotate a specific register right by 1 through the carry flag
 * **RL** (rotate left) - bit rotate a specific register left by 1 through the carry flag
-* **RRC** (rorate right) - bit rotate a specific register right by 1 (not through the carry flag)
-* **RLC** (rorate left) - bit rotate a specific register left by 1 (not through the carry flag)
+* **RRC** (rotate right) - bit rotate a specific register right by 1 (not through the carry flag)
+* **RLC** (rotate left) - bit rotate a specific register left by 1 (not through the carry flag)
 * **SRA** (shift right arithmetic) - arithmetic shift a specific register right by 1
 * **SLA** (shift left arithmetic) - arithmetic shift a specific register left by 1
 * **SWAP** (swap nibbles) - switch upper and lower nibble of a specific register
